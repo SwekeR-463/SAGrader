@@ -2,10 +2,6 @@
 
 A FastAPI-powered API that evaluates essays using Gemini 2.5-Flash. It analyzes each essay based on **relevance**, **grammar**, **structure**, and **depth**, and computes a final weighted score.
 
-## Demo Video
-
-
-
 ## Flow Chart
 SAGrader workflow:
 ```mermaid
