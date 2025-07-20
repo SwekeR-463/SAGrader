@@ -37,7 +37,7 @@ graph TD
 ### Setup
 1. Clone the repo:
    ```bash
-   git clone ..
+   git clone https://github.com/SwekeR-463/SAGrader.git
    cd SAGrader
    ```
 
